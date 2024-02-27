@@ -31,7 +31,7 @@ class FilamentMobiscrollServiceProvider extends PackageServiceProvider
 
     protected function getAssetPackageName()
     {
-        return 'farm/filament-mobiscroll';
+        return 'farmitaroma/filament-mobiscroll';
     }
 
     protected function getAssets()
