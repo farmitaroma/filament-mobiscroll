@@ -1,6 +1,6 @@
 <?php
 
-namespace Farm\FilamentMobiscroll\Widget;
+namespace Farmit\FilamentMobiscroll\Widget;
 
 use Filament\Widgets\Widget;
 

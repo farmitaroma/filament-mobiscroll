@@ -1,6 +1,6 @@
 <?php
 
-namespace Farm\FilamentMobiscroll;
+namespace Farmit\FilamentMobiscroll;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;

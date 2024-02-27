@@ -1,6 +1,6 @@
 <?php
 
-namespace Farm\FilamentMobiscroll;
+namespace Farmit\FilamentMobiscroll;
 
 use Filament\Support\Assets\AlpineComponent;
 use Filament\Support\Assets\Css;
@@ -31,7 +31,7 @@ class FilamentMobiscrollServiceProvider extends PackageServiceProvider
 
     protected function getAssetPackageName()
     {
-        return 'farm/filament-mobiscroll';
+        return 'farmit/filament-mobiscroll';
     }
 
     protected function getAssets()

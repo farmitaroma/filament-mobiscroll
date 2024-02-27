@@ -1,5 +1,5 @@
 {
-    "name": "farm/filament-mobiscroll",
+    "name": "farmit/filament-mobiscroll",
     "description": "Integration of Mobiscroll with Filament 🚀",
     "require": {
         "filament/filament": "^3.2"
@@ -7,7 +7,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Farm\\FilamentMobiscroll\\": "src/"
+            "Farmit\\FilamentMobiscroll\\": "src/"
         }
     },
     "authors": [
@@ -19,7 +19,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Farm\\FilamentMobiscroll\\FilamentMobiscrollServiceProvider"
+                "Farmit\\FilamentMobiscroll\\FilamentMobiscrollServiceProvider"
             ]
         }
     },
