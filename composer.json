@@ -1,5 +1,5 @@
 {
-    "name": "farmitaroma/filament-mobiscroll",
+    "name": "farm/filament-mobiscroll",
     "description": "Integration of Mobiscroll with Filament 🚀",
     "require": {
         "filament/filament": "^3.2"
